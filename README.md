@@ -21,9 +21,10 @@
 
 ## 📷 Demo
 
-![screenshot](./screenshot.png) <!-- Add a screenshot file if available -->
+![Screenshot 2025-07-06 023941](https://github.com/user-attachments/assets/b078346c-3c78-4bdb-8236-e7fdfefe9520)
+ <!-- Add a screenshot file if available -->
 
-🌐 **Live Preview**: [Your live link here]  
+🌐 **Live Preview**: [https://subhamsam007.github.io/GitPeek-GitHub-Profile-Explorer/]  
 💻 **Source Code**: [GitHub Repository Link]
 
 ## 📦 How to Run Locally
